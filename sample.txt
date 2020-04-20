@@ -8,3 +8,6 @@ many file changed
 
 
 status check!
+
+
+git diff
