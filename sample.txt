@@ -5,3 +5,6 @@ tuika
 henkou shita yo
 
 many file changed
+
+
+status check!
